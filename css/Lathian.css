@@ -33,6 +33,12 @@
 .customers td{
     width: 100px;
 }
+.Container {
+    background-color: navy;
+}
+.contact-us {
+    background-color: indianred;
+}
 
 
 
